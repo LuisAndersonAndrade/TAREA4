@@ -424,12 +424,179 @@ SECCIÓN 8–3 Conversiones de fuente
 
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
+![image](https://user-images.githubusercontent.com/117800753/208810113-7c947d74-696f-4921-8725-2f3d907d662a.png)
 
+![image](https://user-images.githubusercontent.com/117800753/208810123-9ab5bd67-eac8-49f9-8ec2-83c008911f97.png)
 
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
+![image](https://user-images.githubusercontent.com/117800753/208810141-64a4eb1e-df9d-45e5-946b-ba92486d6645.png)
 
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
+![image](https://user-images.githubusercontent.com/117800753/208810169-cc04b42b-40b6-4912-8850-768f212632a2.png)
 
+![image](https://user-images.githubusercontent.com/117800753/208810176-74f0fc19-0b43-400c-8677-72e4f3c3b592.png)
+
+SECCIÓN 8–4 El teorema de superposición
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos
+
+de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/117800753/208810208-0328f124-14d4-4661-9893-72a273f47174.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostra-
+dos en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/117800753/208810235-86e22f23-c908-4539-84b4-f9a2b2365184.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810247-d7d7eba5-6d1b-4386-9053-d2bfaa83c2a5.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810263-3cb5a2b9-b201-44ec-b327-3f595b26d8a4.png)
+
+12. Repita el problema 11 si R2 es de 10 kΩ.
+
+![image](https://user-images.githubusercontent.com/117800753/208810289-6b0d141b-e0cf-4285-a334-5ed2e4dda434.png)
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![image](https://user-images.githubusercontent.com/117800753/208810326-b29b6ccb-7696-4cf8-82a3-bbd1393acd46.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810369-c5111d11-5bc0-42cf-8ecd-8d57ac118639.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810375-42e52dfc-e2c5-4f25-93cd-1d2af9c3f3c7.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810396-4a10f45f-3c74-4a9e-bfae-d2b86c9b7723.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810412-9adbf471-5a0f-44e9-a894-f6d604bc7dc8.png)
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve des-
+de las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/117800753/208810456-196a5a5f-71af-45a0-ab38-a29e8ddd1515.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810469-a1dc12db-cc7b-462e-a597-85374c4d6a55.png)
+
+*18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/117800753/208810497-a9919349-2c1d-4dc1-afa0-e536c6df84e4.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810519-e4e54f2e-1179-475a-9abd-482e9a9d889f.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810530-521be4ae-989e-4966-ab6e-138bbcdc52b5.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810541-03dfd1a5-2abe-42d1-822b-53caea2b2a79.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+
+![image](https://user-images.githubusercontent.com/117800753/208810575-8ef639fb-0af1-4913-b0bd-c2c712ccf98b.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810582-8e03e80d-bd30-42d3-9a34-57ee09c56fa2.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810599-cfd83544-94f0-41a5-bc39-fd646574e52e.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810612-a9095f5f-35b3-4276-bb83-8b0835d70174.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810630-eb35cd9f-ebec-4c57-b13c-fc907d60ee9e.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810642-4b5ba1fb-593b-4f31-98f3-95b32ef77346.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810652-59d86ddf-39c5-4b88-8bdc-1154971c39e5.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/117800753/208810683-47a5d389-936a-4fd2-abd2-0edf8202b754.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810822-30127072-f73c-40f4-982a-f18701317d2d.png)
+
+SECCIÓN 8–6 Teorema de Norton
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/117800753/208810842-5c1ab2e1-c5b7-4e72-b746-9c020c6a8e66.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810853-8e6bbf1d-7a77-413d-a1fe-2f84b3814ce7.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810869-ada6d296-801a-4e7e-9c58-85e44e4bf6a4.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810885-78720e34-ff48-4267-84fd-4ed1329e7150.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810900-c8e06e7f-3354-4d2f-9ddf-82a08b803059.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
+R8 5 8 kΩ.
+
+![image](https://user-images.githubusercontent.com/117800753/208810923-5172393f-2bba-4cbf-be4a-efd0aab6c163.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810936-4a54bbcd-3a72-4366-9935-a8aebd2c7b00.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810947-e20611a1-809f-4acf-8d92-31ec69191ee0.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810955-7fbb3589-b8d1-4412-8272-262d6771e38d.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810958-f742094c-0cd2-4344-93b6-84527df1e7ca.png)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/117800753/208810985-3c8d8728-e87d-4813-9898-7a65a80d6776.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208810996-bfd52627-0ba1-4e9e-9aaf-d5439a5af758.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208811011-60b46d79-0afc-4b16-a05e-5b1f4f111c8a.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208811024-c99584c9-6cba-4945-8a09-12e6e5acb115.png)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. De-
+termine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/117800753/208811039-015663a5-d18d-4fe0-b02e-48d1a66a7b9b.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208811051-5c850a9e-415e-4dff-b4b8-1c70c57c2080.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208811063-1c251992-2c6a-49d2-9704-dba76b866ea4.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![image](https://user-images.githubusercontent.com/117800753/208811079-c8d8ed3d-4373-4683-9cb0-466166824827.png)
+
+SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/117800753/208811316-bd98d625-2803-4e4f-bc29-5050825c393d.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208811109-bf505178-bba1-44b0-8649-d2986ad92b3e.png)
+
+* 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/117800753/208811132-7c77c68e-ac3e-4c6a-9cc3-11b98c13c492.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208811348-f83eedbe-a862-410d-a6d3-5b83e099d1cb.png)
+
+![image](https://user-images.githubusercontent.com/117800753/208811397-6ad25085-6f44-43ac-8041-d5b41a374106.png)
+
+5.VIDEO
+
+https://youtu.be/c6dna9ik6PU
+
+6.CONCLUSIONES
+
+•	Concluímos que al aplicar la teoria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente las formas de hallarlas.
+
+•	Finalmente después de haber realizado un análisis profundo de cada tema tratado, pudimos observar que gracias al análisis realizado por cada uno se pudo obtener un mayor conocimiento y así poder realizar el cálculo necesario para la resolución de problemas, los cuales nos brindan un gran avance en el análisis de circuitos.
+
+•	Luego de revisar atentamente el contenido expuesto en el texto guía podemos concluir que las formulas expuestas fueron comprendidas y aplicadas en base a los ejercicios propuestos.
+
+7.BIBLIOGRAFÍA
+
+Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+
+8. RUBRICA
+
+![image](https://user-images.githubusercontent.com/117800753/208811464-cbeb014e-e4f6-4ab3-a96f-430e0542b100.png)
 
 
 
